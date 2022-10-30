@@ -1,0 +1,5 @@
+config:
+  - Host-Group-Name: "Host-Group-Name.json"
+
+Host-Group-Name:
+  - name: "Resistance is futile!"

@@ -1,0 +1,14 @@
+test1:
+    - name: "test1"
+    - env-url: "https://jkr36399.live.dynatrace.com"
+    - env-token-name: "Monaco_Test"   
+
+    # "dt0c01.4S6MC46X7WSWYK7GD2OEXOOE.3G2GFNW3V5JKZFPWC6YL2IHUARDQY57FTMUVPHQH3WQQPRHIS3EY3CPQF57ON3LK" 
+# test2:
+#     - name: "Test2"
+#     - env-url: "https://test2.com"
+#     - env-token-name: "TEST_TOKEN"
+# test3:
+#     - name: "Test3"
+#     - env-url: "https://test3.com"
+#     - env-token-name: "TEST_TOKEN"

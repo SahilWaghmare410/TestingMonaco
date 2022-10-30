@@ -1,0 +1,25 @@
+{
+  "name": "{{ .name }}",
+  "rules": [
+    {
+      "type": "HOST",
+      "enabled": true,
+      "valueFormat": "MonacoTest",
+      "propagationTypes": [],
+      "conditions": [
+        {
+          "key": {
+            "attribute": "HOST_DETECTED_NAME"
+          },
+          "comparisonInfo": {
+            "type": "STRING",
+            "operator": "EQUALS",
+            "value": "AZSG-D-DTS3W",
+            "negate": false,
+            "caseSensitive": true
+          }
+        }
+      ]
+    }
+  ]
+}

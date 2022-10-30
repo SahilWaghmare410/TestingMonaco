@@ -1,0 +1,24 @@
+
+git push --all origin
+
+git clone URL
+
+git clone -b alerting-profile 
+
+git push -u origin --all
+
+NEW_CLI=1 monaco deploy --dry-run --environments=environments.yaml
+NEW_CLI=1 monaco deploy --environments=environments.yaml
+NEW_CLI=1 monaco deploy --environments=environments.yaml -p auto-tag/
+
+
+monaco --dry-run --environments=environments.yaml -p=auto-tagging
+monaco --environments=environments.yaml -p=auto-tagging
+monaco --dry-run -e=environments.yaml -p=auto-tagging
+monaco -e=environments.yaml -p=auto-tagging
+
+monaco download --environments=environments.yaml
+
+"dt0c01.4S6MC46X7WSWYK7GD2OEXOOE.3G2GFNW3V5JKZFPWC6YL2IHUARDQY57FTMUVPHQH3WQQPRHIS3EY3CPQF57ON3LK" 
+
+dt0c01.CWAVX3VZFEOXG7SASYVIJKVU.Y4NSB235KHL7NQ5W2PLEQ57AKKRRLVSFELPSGZ6DXCF3CCANWQEXOVIKUABSFIWB
