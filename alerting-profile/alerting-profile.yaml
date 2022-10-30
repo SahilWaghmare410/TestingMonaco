@@ -1,5 +1,0 @@
-config:
-  - profile: "profile.json"
-
-profile:
-  - name: "This_is_Monaco_test_1.0"
