@@ -1,0 +1,9 @@
+2022-11-19 17:42:27 DEBUG request log not activated
+2022-11-19 17:42:27 DEBUG response log not activated
+2022-11-19 17:42:27 INFO  Dynatrace Monitoring as Code v1.8.5
+2022-11-19 17:42:27 DEBUG Reading projects...
+2022-11-19 17:42:27 DEBUG   project - projects
+2022-11-19 17:42:27 DEBUG Processing file: projects/auto-tag/auto-tag.yaml
+2022-11-19 17:42:27 DEBUG 		projects/auto-tag/Host-Group-Name
+2022-11-19 17:42:27 DEBUG Sorting projects...
+2022-11-19 17:42:27 INFO  Executing projects in this order: 
