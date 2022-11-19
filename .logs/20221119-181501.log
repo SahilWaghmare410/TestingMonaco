@@ -1,0 +1,7 @@
+2022-11-19 18:15:01 DEBUG request log not activated
+2022-11-19 18:15:01 DEBUG response log not activated
+2022-11-19 18:15:01 INFO  Dynatrace Monitoring as Code v1.8.5
+2022-11-19 18:15:01 DEBUG Reading projects...
+2022-11-19 18:15:01 DEBUG   project - projects/CoE_Project
+2022-11-19 18:15:01 DEBUG Processing file: projects/CoE_Project/auto-tag/auto-tag.yaml
+2022-11-19 18:15:01 DEBUG 		projects/CoE_Project/auto-tag/Host-Group-Name
