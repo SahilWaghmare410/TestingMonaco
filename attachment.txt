@@ -1,0 +1,11 @@
+diff --git a/projects/delete.yaml b/projects/delete.yaml
+index a26f72f..b7abbcf 100644
+--- a/projects/delete.yaml
++++ b/projects/delete.yaml
+@@ -1,2 +1,2 @@
+ delete:
+-  - "auto-tag/demo-Resistance is futile!"
++  - "auto-tag/Resistance is futile!"
+diff --git a/stuff b/stuff
+old mode 100644
+new mode 100755
