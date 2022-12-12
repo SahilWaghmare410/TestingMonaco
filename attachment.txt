@@ -1,10 +1,10 @@
 diff --git a/attachment.txt b/attachment.txt
-index d10461b..e69de29 100755
+index 4a10fef..e69de29 100755
 --- a/attachment.txt
 +++ b/attachment.txt
 @@ -1,37 +0,0 @@
 -diff --git a/attachment.txt b/attachment.txt
--index 009d84d..e69de29 100755
+-index d52b696..e69de29 100755
 ---- a/attachment.txt
 -+++ b/attachment.txt
 -@@ -1,24 +0,0 @@
@@ -25,26 +25,26 @@ index d10461b..e69de29 100755
 ---old mode 100644
 ---new mode 100755
 --diff --git a/projects/delete.yaml b/projects/delete.yaml
---index a26f72f..5d88ae3 100644
+--index 5d88ae3..f325492 100644
 ----- a/projects/delete.yaml
 --+++ b/projects/delete.yaml
 --@@ -1,2 +1,2 @@
 -- delete:
----  - "auto-tag/demo-Resistance is futile!"
---+  - "auto-tag/demo1-Resistance is futile!"
+---  - "auto-tag/demo1-Resistance is futile!"
+--+  - "auto-tag/demo2-Resistance is futile!"
 -diff --git a/projects/delete.yaml b/projects/delete.yaml
--index f325492..e461beb 100644
+-index e461beb..b7abbcf 100644
 ---- a/projects/delete.yaml
 -+++ b/projects/delete.yaml
 -@@ -1,2 +1,2 @@
 - delete:
---  - "auto-tag/demo2-Resistance is futile!"
--+  - "auto-tag/demo3-Resistance is futile!"
+--  - "auto-tag/demo3-Resistance is futile!"
+-+  - "auto-tag/Resistance is futile!"
 diff --git a/projects/delete.yaml b/projects/delete.yaml
-index b7abbcf..6b6d0fe 100644
+index 6b6d0fe..aba583a 100644
 --- a/projects/delete.yaml
 +++ b/projects/delete.yaml
 @@ -1,2 +1,2 @@
  delete:
--  - "auto-tag/Resistance is futile!"
-+  - "auto-tag/demo-5Resistance is futile!"
+-  - "auto-tag/demo-5Resistance is futile!"
++  - "auto-tag/demo-6Resistance is futile!"
