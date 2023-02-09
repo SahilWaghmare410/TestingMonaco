@@ -1,7 +1,1 @@
-# TestingMonaco from PC
-# testing email approval test1
-# test2 email approval
-# test 3 email approval
-# test4
-# test 5
-#test 6
+# TestingMonaco from new setup
